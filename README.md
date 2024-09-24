@@ -12,7 +12,7 @@ Detta projekt är en fordonsfabrik-applikation som skapar och hanterar olika typ
 
 ## Strukturbeskrivning
 
-Johkri-Assignment2/
+```Johkri-Assignment2/
 ├── Program.cs                # Huvudprogrammet som kör applikationen
 ├── Factories/                # Innehåller fabriker för att skapa fordon
 │   ├── CarFactory.cs         # Fabrik för att skapa bilar
@@ -27,7 +27,7 @@ Johkri-Assignment2/
 │   └── MotorcycleImpl.cs     # Implementering av motorcyklar
 ├── Docs/                     # Dokumentation
 │   └── Reflections.md        # Personliga reflektioner kring projektet
-└── .gitignore                # Lista över filer som inte ska inkluderas i versionskontroll
+└── .gitignore                # Lista över filer som inte ska inkluderas i versionskontroll```
 
 
 ## Installation och körning
