@@ -21,11 +21,20 @@ namespace Models
             engineOn = false;
         }
 
-        public void StartEngine() => engineOn = true;
+        public void StartEngine()
+        {
+            engineOn = true;
+        }
 
-        public void StopEngine() => engineOn = false;
+        public void StopEngine()
+        {
+            engineOn = false;
+        }
 
-        public bool IsEngineOn() => engineOn;
+        public bool IsEngineOn()
+        {
+            return engineOn;
+        }
 
         public override string ToString()
         {

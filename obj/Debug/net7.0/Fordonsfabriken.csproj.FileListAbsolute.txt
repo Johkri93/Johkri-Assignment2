@@ -1,5 +1,15 @@
+/home/jklab/Dokument/cloudkurs/Fordonsfabriken/bin/Debug/net7.0/Fordonsfabriken
+/home/jklab/Dokument/cloudkurs/Fordonsfabriken/bin/Debug/net7.0/Fordonsfabriken.deps.json
+/home/jklab/Dokument/cloudkurs/Fordonsfabriken/bin/Debug/net7.0/Fordonsfabriken.runtimeconfig.json
+/home/jklab/Dokument/cloudkurs/Fordonsfabriken/bin/Debug/net7.0/Fordonsfabriken.dll
+/home/jklab/Dokument/cloudkurs/Fordonsfabriken/bin/Debug/net7.0/Fordonsfabriken.pdb
 /home/jklab/Dokument/cloudkurs/Fordonsfabriken/obj/Debug/net7.0/Fordonsfabriken.csproj.AssemblyReference.cache
 /home/jklab/Dokument/cloudkurs/Fordonsfabriken/obj/Debug/net7.0/Fordonsfabriken.GeneratedMSBuildEditorConfig.editorconfig
 /home/jklab/Dokument/cloudkurs/Fordonsfabriken/obj/Debug/net7.0/Fordonsfabriken.AssemblyInfoInputs.cache
 /home/jklab/Dokument/cloudkurs/Fordonsfabriken/obj/Debug/net7.0/Fordonsfabriken.AssemblyInfo.cs
 /home/jklab/Dokument/cloudkurs/Fordonsfabriken/obj/Debug/net7.0/Fordonsfabriken.csproj.CoreCompileInputs.cache
+/home/jklab/Dokument/cloudkurs/Fordonsfabriken/obj/Debug/net7.0/Fordonsfabriken.dll
+/home/jklab/Dokument/cloudkurs/Fordonsfabriken/obj/Debug/net7.0/refint/Fordonsfabriken.dll
+/home/jklab/Dokument/cloudkurs/Fordonsfabriken/obj/Debug/net7.0/Fordonsfabriken.pdb
+/home/jklab/Dokument/cloudkurs/Fordonsfabriken/obj/Debug/net7.0/Fordonsfabriken.genruntimeconfig.cache
+/home/jklab/Dokument/cloudkurs/Fordonsfabriken/obj/Debug/net7.0/ref/Fordonsfabriken.dll
