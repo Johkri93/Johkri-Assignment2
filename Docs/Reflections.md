@@ -29,13 +29,15 @@ Jag gick tillbaka och ändrade namnet på projektmappen, .csproj-filen och .sln-
 --- Skriv ovanför och ta inte bort denna raden ---
 
 ### Beskriv några implementeringsval du gjort?
-Jag valde att använda fabriker för att skapa fordon, vilket gjorde koden mer strukturerad och lätt att underhålla. Jag höll också metoderna korta och fokuserade på en uppgift i taget, vilket gjorde dem lättare att testa och felsöka. Genom att använda tydliga namn på variabler och metoder blev koden mer läsbar.
+Jag valde att använda fabriker för att skapa fordon, vilket gjorde koden mer strukturerad och lätt att underhålla. Jag höll också metoderna korta och fokuserade på en uppgift i taget, vilket gjorde dem lättare att testa och felsöka. Genom att använda tydliga namn på variabler och metoder blev koden mer läsbar. Jag implementerade också polymorfism genom att använda ett gemensamt interface för bilar och motorcyklar. Detta gjorde att jag kunde hantera olika typer av fordon på ett enhetligt sätt, vilket gjorde koden mer flexibel.
+
+
 --- Skriv ovanför och ta inte bort denna raden ---
 
 ## Reflektion och utvärdering
-JJag lärde mig att det är viktigt att läsa igenom instruktionerna noggrant innan man börjar, så att man inte behöver gå tillbaka och ändra saker senare. Jag fick också bättre förståelse för hur man använder fabriker och hur man modulariserar koden för att hålla den ren och enkel att underhålla.
-### Vad lärde du dig genom att genomföra projektet?
 
+### Vad lärde du dig genom att genomföra projektet?
+Jag lärde mig att det är viktigt att läsa igenom instruktionerna noggrant innan man börjar. Om jag hade gjort det skulle jag ha undvikit att behöva ändra saker senare. Jag fick också en bättre förståelse för hur man använder fabriker för att organisera koden. Genom att implementera polymorfism lärde jag mig hur olika fordon kan hanteras på ett gemensamt sätt. Detta kommer att hjälpa mig i framtida projekt där jag ska arbeta med mer komplexa system. Jag lärde mig också att planera och strukturera mitt arbete bättre. Jag förstod också vikten av att testa koden ofta för att hitta fel tidigt.
 --- Skriv ovanför och ta inte bort denna raden ---
 
 ### Vilka möjligheter ser du för framtida projekt baserat på denna erfarenhet?

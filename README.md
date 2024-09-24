@@ -1,7 +1,7 @@
 # Johkri-Assignment2
 
 ## Projektbeskrivning
-Detta projekt är en fordonsfabrik-applikation som skapar och hanterar olika typer av fordon (bil och motorcykel) med hjälp av fabriker. Applikationen följer objektorienterade principer som arv, polymorfism och interfaces. 
+Detta projekt är en fordonsfabrik-applikation som skapar och hanterar olika typer av fordon (bil och motorcykel) med hjälp av fabriker. Applikationen följer objektorienterade principer som arv, polymorfism och användning av interfaces för att säkerställa en strukturerad och underhållbar kod.
 
 ### Funktioner
 - Skapa bilar och motorcyklar med specifika egenskaper.
@@ -12,7 +12,6 @@ Detta projekt är en fordonsfabrik-applikation som skapar och hanterar olika typ
 
 ## Strukturbeskrivning
 
-```Johkri-Assignment2/
 ├── Program.cs                # Huvudprogrammet som kör applikationen
 ├── Factories/                # Innehåller fabriker för att skapa fordon
 │   ├── CarFactory.cs         # Fabrik för att skapa bilar
@@ -33,21 +32,14 @@ Detta projekt är en fordonsfabrik-applikation som skapar och hanterar olika typ
 ## Installation och körning
 
 ### Förutsättningar
-- .NET SDK installerat
+- .NET SDK installerat (se [officiell installationsguide](https://dotnet.microsoft.com/download))
 
 ### Bygga och köra projektet
 
-1. Klona projektet från GitHub: git clone https://github.com/Johkri93/Johkri-Assignment2.git
-
-2. Navigera till projektmappen:
-cd Johkri-Assignment2
-
-3. Bygg projektet:
-dotnet build
-
-4. Kör applikationen:
-dotnet run
-
+1. Klona projektet från GitHub: `git clone https://github.com/Johkri93/Johkri-Assignment2.git`
+2. Navigera till projektmappen: `cd Johkri-Assignment2`
+3. Bygg projektet: `dotnet build`
+4. Kör applikationen: `dotnet run`
 
 ## Användning
 När programmet körs kommer det att:
@@ -55,6 +47,9 @@ När programmet körs kommer det att:
 2. Starta och stoppa motorerna på båda fordonen.
 3. Ändra antalet dörrar på bilen och motortypen på motorcykeln.
 4. Skriva ut fordonens information och motorstatus.
+
+### Förväntad utdata
+Exempel på förväntad utdata när programmet körs: Car: Toyota Corolla (2020), Doors: 4, Mileage: 15000 Engine status: On Engine status: Off ...
 
 ## Reflektioner
 Se [Reflections.md](./Docs/Reflections.md) för en reflektion över projektet och arbetsprocessen.
