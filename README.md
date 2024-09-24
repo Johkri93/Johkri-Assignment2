@@ -11,7 +11,7 @@ Detta projekt är en fordonsfabrik-applikation som skapar och hanterar olika typ
 - Polymorfism används för att hantera fordonens gemensamma egenskaper.
 
 ## Strukturbeskrivning
-
+```
 ├── Program.cs                # Huvudprogrammet som kör applikationen
 ├── Factories/                # Innehåller fabriker för att skapa fordon
 │   ├── CarFactory.cs         # Fabrik för att skapa bilar
@@ -26,7 +26,8 @@ Detta projekt är en fordonsfabrik-applikation som skapar och hanterar olika typ
 │   └── MotorcycleImpl.cs     # Implementering av motorcyklar
 ├── Docs/                     # Dokumentation
 │   └── Reflections.md        # Personliga reflektioner kring projektet
-└── .gitignore                # Lista över filer som inte ska inkluderas i versionskontroll```
+└── .gitignore                # Lista över filer som inte ska inkluderas i versionskontroll
+```
 
 
 ## Installation och körning
