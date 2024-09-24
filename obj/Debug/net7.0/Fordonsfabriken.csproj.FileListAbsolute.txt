@@ -1,0 +1,5 @@
+/home/jklab/Dokument/cloudkurs/Fordonsfabriken/obj/Debug/net7.0/Fordonsfabriken.csproj.AssemblyReference.cache
+/home/jklab/Dokument/cloudkurs/Fordonsfabriken/obj/Debug/net7.0/Fordonsfabriken.GeneratedMSBuildEditorConfig.editorconfig
+/home/jklab/Dokument/cloudkurs/Fordonsfabriken/obj/Debug/net7.0/Fordonsfabriken.AssemblyInfoInputs.cache
+/home/jklab/Dokument/cloudkurs/Fordonsfabriken/obj/Debug/net7.0/Fordonsfabriken.AssemblyInfo.cs
+/home/jklab/Dokument/cloudkurs/Fordonsfabriken/obj/Debug/net7.0/Fordonsfabriken.csproj.CoreCompileInputs.cache
