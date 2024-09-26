@@ -49,8 +49,5 @@ När programmet körs kommer det att:
 3. Ändra antalet dörrar på bilen och motortypen på motorcykeln.
 4. Skriva ut fordonens information och motorstatus.
 
-### Förväntad utdata
-Exempel på förväntad utdata när programmet körs: Car: Toyota Corolla (2020), Doors: 4, Mileage: 15000 Engine status: On Engine status: Off ...
-
 ## Reflektioner
 Se [Reflections.md](./Docs/Reflections.md) för en reflektion över projektet och arbetsprocessen.
